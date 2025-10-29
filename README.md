@@ -83,7 +83,8 @@ Uncovered over 62 percent of uncollected revenue and proposed a data-driven reco
 
 ## Contact
 Email: princeokilo01@gmail.com
+Github
 
 ---
 
-"I believe that every dataset holds a story — my goal is to extract, interpret, and communicate that story to drive better business decisions."
+"I believe that every dataset holds a story and my goal is to extract, interpret, and communicate that story to drive better business decisions."
