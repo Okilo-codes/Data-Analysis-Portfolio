@@ -83,7 +83,7 @@ Uncovered over 62 percent of uncollected revenue and proposed a data-driven reco
 
 ## Contact
 Email: princeokilo01@gmail.com
-Github
+Github: https://github.com/Okilo-codes
 
 ---
 
